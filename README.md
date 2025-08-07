@@ -1,2 +1,2 @@
 # Kudirah--portfolio-
-My personal portfolio 
+My portfolio website for employers
